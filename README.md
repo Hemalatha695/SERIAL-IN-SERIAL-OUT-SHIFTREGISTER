@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/2d6d682d-991c-4658-8cd5-d455618b7372)# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
-
 **AIM:**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
